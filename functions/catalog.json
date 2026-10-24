@@ -11,5 +11,18 @@
     "image": "https://images.unsplash.com/photo-1558008258-3256797b43f3?auto=format&fit=crop&w=700&q=80",
     "images": [],
     "videos": []
+  },
+  {
+    "id": 2,
+    "name": "Produto 1",
+    "price": 60,
+    "category": "Casa",
+    "description": "A",
+    "oldPrice": 90,
+    "badge": "",
+    "emoji": "📦",
+    "image": "https://firebasestorage.googleapis.com/v0/b/curitiba-expresso.firebasestorage.app/o/products%2F2%2Fmain-0dc2a630-41fe-472f-aff1-33639d39f092.jpg?alt=media&token=8a77fecf-01e0-470e-a62d-959997dfd51f",
+    "images": [],
+    "videos": []
   }
 ]
