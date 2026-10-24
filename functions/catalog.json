@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Fita LED RGB 5050 com controle",
+    "price": 1,
+    "category": "Eletrônicos",
+    "description": "Iluminação decorativa para ambientes internos.",
+    "oldPrice": 49.9,
+    "badge": "20% OFF",
+    "emoji": "💡",
+    "image": "https://images.unsplash.com/photo-1558008258-3256797b43f3?auto=format&fit=crop&w=700&q=80",
+    "images": [],
+    "videos": []
+  }
+]
